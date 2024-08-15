@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Ifood</string>
+    <string name="WybierzListe">Wybierz Listę </string>
+    <string name="ButtonListaUlubonegoJedzenia">Lista ulubionego jedzenia </string>
+    <string name="ButtonListaUlubonegoNapojów">Lista ulubionych napojów </string>
+    <string name="ButtonListaUlubonychDeserów">Lista ulubionych deserów </string>
+    <string name="ButtonWyjdźZAplikacji">Wyjdź </string>
+    //Kontrolki do Lista Ulubionych dań
+    <string name="NazwaDania">Nazwa dania </string>
+    <string name="MiejsceZakupu">Miejsce zakupu </string>
+    <string name="ButtonZobaczWszystkie">Zobacz wszystkie </string>
+    <string name="ButtonDodaj">Dodaj  </string>
+    <string name="ButtonEdytuj">Edytuj </string>
+    <string name="ButtonUsuń">Usuń </string>
+    <string name="ButtonPowrót">Menu </string>
+    <string name="OcenaDania">Ocena </string>
+    //Kontrolki do Lista Ulubionych napojów
+    <string name="NazwaNapoju">Nazwa napoju </string>
+    <string name="MiejsceZakupuNapoju">Miejsce zakupu </string>
+    <string name="ButtonZobaczWszystkieNapoje">Zobacz wszystkie </string>
+    <string name="ButtonDodajNapój">Dodaj  </string>
+    <string name="ButtonEdytujNapój">Edytuj </string>
+    <string name="ButtonUsuńNapój">Usuń </string>
+    <string name="ButtonPowrótNapój">Menu </string>
+    <string name="OcenaNapoju">Ocena </string>
+    //Kontrolki do Lista Ulubionych deserów
+    <string name="NazwaDeseru">Nazwa deseru </string>
+    <string name="MiejsceZakupuDeseru">Miejsce zakupu </string>
+    <string name="ButtonZobaczWszystkieDesery">Zobacz wszystkie </string>
+    <string name="ButtonDodajDeser">Dodaj  </string>
+    <string name="ButtonEdytujDeser">Edytuj </string>
+    <string name="ButtonUsuńDeser">Usuń </string>
+    <string name="ButtonPowrótDeser">Menu </string>
+    <string name="OcenaDeser">Ocena </string>
+
+
+    <string name="buttonZdiecjeDaniar">Zrób zdięcje </string>
+    <string name="buttonZdiencjeDeseru">Zrób zdięcje </string>
+    <string name="buttonZdiencjeNapoju">Zrób zdięcje </string>
+
+    <string-array name="dania">
+        <item>bardzoDobre</item>
+        <item>dobre</item>
+        <item>srednie</item>
+        <item>brak</item>
+    </string-array>
+
+    <string-array name="desery">
+        <item>bardzoDobre</item>
+        <item>dobre</item>
+        <item>srednie</item>
+        <item>brak</item>
+    </string-array>
+
+    <string-array name="napoje">
+        <item>bardzoDobre</item>
+        <item>dobre</item>
+        <item>srednie</item>
+        <item>brak</item>
+    </string-array>
+
+
+</resources>
