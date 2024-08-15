@@ -1,0 +1,9 @@
+C:\Users\Mak\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\Mak\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\Mak\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\Mak\Desktop\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\Mak\Desktop\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\Mak\Desktop\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\Mak\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\Mak\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\Mak\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.FormPrzychodnia.resources
