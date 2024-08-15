@@ -1,0 +1,320 @@
+
+/*css for all*/
+*{
+    margin:0 0;
+    padding:0 0;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.container{
+    
+    width: 80%;
+    margin:0 auto;
+    padding:1% ;
+    
+}
+/*size img for categories*/
+.img-responsive-for-categories{
+    width: 100%;
+    height: 400px;
+   
+    border-radius: 10px;
+   
+}
+
+.img-responsive-for-logo{
+    width: 100%;
+    float: left;
+}
+
+.img-responsive{
+    width: 100%;
+    height: 100px;
+    
+   
+}
+
+.img-responsive-for-order-pizza{
+    width: 100%;
+    height: 200px;
+    margin-left: 8%;
+   
+    
+   
+}
+
+.img-curve{
+    border-radius: 10px;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-purple{
+    color:#706fd3; ;
+}
+
+.clearfix{
+    clear: both;
+    float: none;
+}
+
+a{
+color: #706fd3;
+text-decoration: none;
+}
+
+a:hover{
+   color:  #ff5252;
+}
+
+.btn{
+    padding: 1%;
+   
+    font-size: 1rem;
+}
+.btn-primary{
+    background-color:#706fd3 ;
+    cursor: pointer;
+    border-radius: 5px;
+    color: black;
+}
+.btn-order{
+    background-color:#706fd3 ;
+    cursor: pointer;
+    border-radius: 5px;
+    color: black;
+    width:98% ;
+}
+
+.btn-primary:hover{
+    background-color:#ff5252;
+    color: black;
+}
+
+h2{
+    color: #2d3436;
+    font-size: 2rem;
+    margin-bottom: 6% ;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+.float-container{
+position: relative;
+
+}
+/*name of categories of food*/
+.float-text{
+    position:absolute;
+    bottom: 410px;
+    left: 40%;
+}
+
+fieldset{
+    border: 1px solid white;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+}
+
+/*css for navbar*/
+.logo{
+   
+    width: 10%;
+    float: left;
+   
+}
+.menu{
+    line-height: 80px;
+}
+.menu ul{
+list-style-type:none;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
+
+/*css for food search*/
+.food-search{
+    background-image: url(../images/Burger.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10% 0 ;
+}
+
+.food-search input[type="search"]{
+    width: 47%;
+    padding: 1%;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+/*css for categories*/
+.categories{
+    padding: 4% 0;
+}
+
+.box-3{
+  
+    width: 28%;
+    
+    float: left;
+    margin: 2%;
+}
+
+/*css for food menu*/
+
+.food-menu{
+background-color: #74b9ff;
+padding: 4% 0;
+}
+
+.food-menu-box{
+    
+    width: 43%;
+   
+    margin: 1%;
+    padding: 2%;
+    float: left;
+    background-color: white;
+    border-radius: 15px;
+    height: 130px;
+}
+
+.food-menu-img{
+    width: 20%;
+    float: left;
+    
+}
+
+.food-menu-description{
+    width: 70%;
+    float: left;
+    margin-left: 8%;
+}
+
+
+
+.food-price{
+    font-size: 1.2rem;
+    margin: 1% 0;
+}
+.food-detail{
+    font-size: 1rem;
+}
+
+/*css for social*/
+
+.social ul{
+    list-style-type: none;
+}
+
+.social ul li{
+    display: inline;
+    padding: 1%;
+}
+
+/*margin for Food site*/
+.braek{
+    height: 80px;
+    color: white;
+}
+
+.background-for-order{
+    background-image: url(../images/backgraundorder.jpg);
+}
+
+/* for Order Section */
+.order{
+    width: 50%;
+    margin: 0 auto;
+}
+.input-responsive{
+    width: 96%;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.order-label{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+
+.instaler-label{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+.instaler{
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+/*css for mobile size */
+
+@media only screen and (max-width:768px) {
+    .img-responsive-for-logo{
+        width: 80%;
+        float: none;
+        margin: 0 auto;
+    }
+
+    .logo{
+        width: 90%;
+        float: none;
+        margin: 1% auto;
+        text-align: center;
+    }
+
+    .menu ul{
+        text-align: center;
+    }
+
+    .food-search input[type="search"]{
+        width: 75%;
+    }
+
+    h2{
+        margin-bottom: 15%;
+    }
+
+    .food-menu-box{
+        height: 196px;
+        
+    }
+
+    .img-responsive{
+        height: 55px;
+    }
+
+    .img-responsive-for-categories{
+        height: 170px;
+    }
+
+    .float-text{
+        position:absolute;
+        bottom: 180px;
+        left: 3%;
+        
+    }
+
+    .order{
+        width: 100%;
+    }
+
+    
+}
