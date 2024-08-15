@@ -1,0 +1,36 @@
+[RESOURCES]
+barman
+klient
+Szklanki
+Aperitif alkoholu
+[VARIABLES]
+Klient placi za zamówienie.NumberIn
+Klient placi za zamówienie.NumberOut
+Przyjecie platnosci.VATime
+Zamawianie drinka.NumberOut
+Mycie szklanek.WaitTime
+Mycie szklanek.VATime
+Zamawianie drinka.NumberIn
+Przygotowanie drinka.NumberOut
+Picie drinka.VATime
+Klient placi za zamówienie.VATime
+Czy kolejny drink.NumberOut True
+Picie drinka.NumberOut
+Mycie szklanek.NumberIn
+Picie drinka.WaitTime
+Mycie szklanek.NumberOut
+Zamawianie drinka.VATime
+Picie drinka.NumberIn
+Przybycje klientów.NumberOut
+Zamawianie drinka.WaitTime
+Przygotowanie drinka.VATime
+Separate 1.NumberOut Orig
+Przyjecie platnosci.WaitTime
+Klient opuszcza lokal.NumberOut
+Przyjecie platnosci.NumberOut
+Przyjecie platnosci.NumberIn
+Przygotowanie drinka.NumberIn
+Umyta szklanka.NumberOut
+Czy kolejny drink.NumberOut False
+Separate 1.NumberOut Dup
+Przygotowanie drinka.WaitTime
