@@ -1,0 +1,54 @@
+C:\Users\rogut\Desktop\Silownia\Silownia\bin\Debug\Silownia.exe.config
+C:\Users\rogut\Desktop\Silownia\Silownia\bin\Debug\Silownia.exe
+C:\Users\rogut\Desktop\Silownia\Silownia\bin\Debug\Silownia.pdb
+C:\Users\rogut\Desktop\Silownia\Silownia\obj\Debug\Silownia.csproj.AssemblyReference.cache
+C:\Users\rogut\Desktop\Silownia\Silownia\obj\Debug\Silownia.csproj.SuggestedBindingRedirects.cache
+C:\Users\rogut\Desktop\Silownia\Silownia\obj\Debug\Silownia.Form1.resources
+C:\Users\rogut\Desktop\Silownia\Silownia\obj\Debug\Silownia.Properties.Resources.resources
+C:\Users\rogut\Desktop\Silownia\Silownia\obj\Debug\Silownia.csproj.GenerateResource.cache
+C:\Users\rogut\Desktop\Silownia\Silownia\obj\Debug\Silownia.csproj.CoreCompileInputs.cache
+C:\Users\rogut\Desktop\Silownia\Silownia\obj\Debug\Silownia.exe
+C:\Users\rogut\Desktop\Silownia\Silownia\obj\Debug\Silownia.pdb
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\bin\Debug\Silownia.exe.config
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\bin\Debug\Silownia.exe
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\bin\Debug\Silownia.pdb
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\obj\Debug\Silownia.csproj.AssemblyReference.cache
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\obj\Debug\Silownia.csproj.SuggestedBindingRedirects.cache
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\obj\Debug\Silownia.Form1.resources
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\obj\Debug\Silownia.Properties.Resources.resources
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\obj\Debug\Silownia.csproj.GenerateResource.cache
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\obj\Debug\Silownia.csproj.CoreCompileInputs.cache
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\obj\Debug\Silownia.exe
+C:\Users\rogut\Desktop\projekt\Silownia\Silownia\obj\Debug\Silownia.pdb
+C:\Users\Marcin\Desktop\Silownia\Silownia\bin\Debug\Silownia.exe.config
+C:\Users\Marcin\Desktop\Silownia\Silownia\bin\Debug\Silownia.exe
+C:\Users\Marcin\Desktop\Silownia\Silownia\bin\Debug\Silownia.pdb
+C:\Users\Marcin\Desktop\Silownia\Silownia\obj\Debug\Silownia.csproj.AssemblyReference.cache
+C:\Users\Marcin\Desktop\Silownia\Silownia\obj\Debug\Silownia.Form1.resources
+C:\Users\Marcin\Desktop\Silownia\Silownia\obj\Debug\Silownia.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Silownia\Silownia\obj\Debug\Silownia.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\Silownia\Silownia\obj\Debug\Silownia.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\Silownia\Silownia\obj\Debug\Silownia.exe
+C:\Users\Marcin\Desktop\Silownia\Silownia\obj\Debug\Silownia.pdb
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\bin\Debug\Silownia.exe.config
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\bin\Debug\Silownia.exe
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\bin\Debug\Silownia.pdb
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\obj\Debug\Silownia.csproj.AssemblyReference.cache
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\obj\Debug\Silownia.csproj.SuggestedBindingRedirects.cache
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\obj\Debug\Silownia.Form1.resources
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\obj\Debug\Silownia.Properties.Resources.resources
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\obj\Debug\Silownia.csproj.GenerateResource.cache
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\obj\Debug\Silownia.csproj.CoreCompileInputs.cache
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\obj\Debug\Silownia.exe
+C:\Users\rogut\Desktop\Nowy folder\Silownia\Silownia\obj\Debug\Silownia.pdb
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\bin\Debug\Silownia.exe.config
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\bin\Debug\Silownia.exe
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\bin\Debug\Silownia.pdb
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\obj\Debug\Silownia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\obj\Debug\Silownia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\obj\Debug\Silownia.Form1.resources
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\obj\Debug\Silownia.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\obj\Debug\Silownia.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\obj\Debug\Silownia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\obj\Debug\Silownia.exe
+C:\Users\Admin\Desktop\Projekty\Silownia Marcin Pierzgalski\Silownia\Silownia\obj\Debug\Silownia.pdb
