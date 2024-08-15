@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListaUlubionychNapojow">
+
+    <EditText
+        android:id="@+id/NazwaNapoju"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/NazwaNapoju"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:text="@string/NazwaNapoju"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/MiejsceZakupuNapoju"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="@string/MiejsceZakupuNapoju"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:text="@string/MiejsceZakupuNapoju"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/NazwaNapoju" />
+
+    <Button
+        android:id="@+id/buttoDodajNapoj"
+        android:layout_width="130dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="140dp"
+        android:text="@string/ButtonDodajNapój"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinnerNapojow" />
+
+
+    <Button
+        android:id="@+id/buttonZobaczWszystkieNapoje"
+        android:layout_width="130dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/ButtonZobaczWszystkieNapoje"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinnerNapojow" />
+
+    <Button
+        android:id="@+id/buttonEdytujNapoj"
+        android:layout_width="130dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/ButtonEdytujNapój"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinnerNapojow" />
+
+    <Spinner
+        android:id="@+id/spinnerNapojow"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:entries="@array/napoje"
+        android:layout_marginTop="10dp"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recyclerViewNapojow" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewNapojow"
+        android:layout_width="0dp"
+        android:layout_height="306dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/MiejsceZakupuNapoju" />
+
+    <Button
+        android:id="@+id/buttonZdiencjeNapoju"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+
+
+        android:text="@string/buttonZdiecjeDaniar"
+        app:layout_constraintBottom_toBottomOf="@+id/viewFinderNapojow"
+        app:layout_constraintEnd_toEndOf="@+id/viewFinderNapojow"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/viewFinderNapojow" />
+
+    <androidx.camera.view.PreviewView
+        android:id="@+id/viewFinderNapojow"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttoDodajNapoj" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
